@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails helloworld2: development" uuid="af741fce-1c57-4ba0-ada6-eef97a530197">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails helloworld2: test" uuid="8e5ec3a6-bcdc-4a43-8c40-a307854622d0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails helloworld2: production" uuid="f4ae1523-2e0d-4e50-9ad0-62b8aa554c18">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
